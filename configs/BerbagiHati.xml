@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature name="AISCO"/>
+	<feature name="Program"/>
+	<feature name="Activity"/>
+	<feature name="EmergencyResponse"/>
+	<feature name="Operational"/>
+	<feature name="FinancialReport"/>
+	<feature name="Income"/>
+	<feature name="Expense"/>
+	<feature name="Donation"/>
+	<feature name="DirectPayment"/>
+	<feature name="PaymentGateway"/>
+	<feature name="Ewallet"/>
+	<feature name="CreditCard"/>
+</configuration>
