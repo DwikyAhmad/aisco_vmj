@@ -59,7 +59,7 @@ public class BisaBisa {
     }
 
     public static void main(String[] args) {
-        System.out.println ("Product Charity School");
+        System.out.println ("Product BisaBisa");
         List<Program> programs = addProgram();
         System.out.println(programs);
         
