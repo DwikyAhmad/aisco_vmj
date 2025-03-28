@@ -25,5 +25,8 @@
 	],
 	"PaymentGateway": [
 		"aisco.donation.pgateway"
+	],
+	"Ewallet": [
+		"aisco.donation.ewallet"
 	]
 }
